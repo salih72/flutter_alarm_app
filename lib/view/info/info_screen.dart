@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+eimport 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class InfoScreen extends StatelessWidget {
@@ -23,7 +23,7 @@ class InfoScreen extends StatelessWidget {
               children: const [
                 TextSpan(text: "\u2023 Mustafa Emir Yerlikaya\n\n"),
                 TextSpan(text: "\u2023 Devran Şeker\n\n"),
-                TextSpan(text: "\u2023 Muhammed Enes Temel\n\n"),
+                TextSpan(text: "\u2023 Mehmet Enes Temel\n\n"),
                 TextSpan(text: "\u2023 Salih Samed Cesur\n\n"),
                 TextSpan(text: "\u2023 Tahsin Seza Dağdeviren\n\n"),
               ],
