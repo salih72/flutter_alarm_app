@@ -23,8 +23,8 @@ class InfoScreen extends StatelessWidget {
               children: const [
                 TextSpan(text: "\u2023 Mustafa Emir Yerlikaya\n\n"),
                 TextSpan(text: "\u2023 Devran Şeker\n\n"),
-                TextSpan(text: "\u2023 Enes\n\n"),
-                TextSpan(text: "\u2023 Salih\n\n"),
+                TextSpan(text: "\u2023 Muhammed Enes Temel\n\n"),
+                TextSpan(text: "\u2023 Salih Samed Cesur\n\n"),
                 TextSpan(text: "\u2023 Tahsin Seza Dağdeviren\n\n"),
               ],
             ),
